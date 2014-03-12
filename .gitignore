@@ -1,0 +1,4 @@
+.DS_Store
+
+# this will ignore the blend files, leaving it off for now b/c im stupid
+# *.blend*
